@@ -1,0 +1,32 @@
+[
+  {
+    "choose1": "paper",
+    "choose2": "scissors",
+    "win": "scissors"
+  },
+  {
+    "choose1": "paper",
+    "choose2": "rock",
+    "win": "paper"
+  },
+  {
+    "choose1": "paper",
+    "choose2": "paper",
+    "win": "its a tie!"
+  },
+  {
+    "choose1": "scissors",
+    "choose2": "rock",
+    "win": "rock"
+  },
+  {
+    "choose1": "scissors",
+    "choose2": "scissors",
+    "win": "its a tie!"
+  },
+  {
+    "choose1": "rock",
+    "choose2": "rock",
+    "win": "its a tie!"
+  }
+]
